@@ -27,7 +27,8 @@ Run:
 `git clone https://github.com/Sup3rlum/nvchad-base46-vsdark.git <YOUR_DIRECTORY>`
 
 Then copy to NvChad themes folder:
-`cp <YOUR_DIRECTORTY>/vsdark.lua cd ~/.local/share/nvim/lazy/base46/lua/base46/themes/vsdark.lua`
+
+`cp <YOUR_DIRECTORTY>/vsdark.lua ~/.local/share/nvim/lazy/base46/lua/base46/themes/vsdark.lua`
 
  Then, once inside Neovim, enter
  `<leader>th`
