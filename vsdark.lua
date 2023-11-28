@@ -67,7 +67,8 @@ M.polish_hl = {
     ['Comment']                 = { fg = M.base_30.green },
     ['Macro']                   = { fg = M.base_30.purple },
     ['Constant']                = { fg = '#B8D7A3'},
-    ['PreProc']                 = { fg =  M.base_30.light_grey },
+    ['PreProc']                 = { fg = M.base_30.light_grey },
+    ['Typedef']                 = { fg = M.base_30.teal },
 
     -- Treesitter
 	['@error'] 					= { fg = M.base_30.red, bg = 'NONE' },
